@@ -51,4 +51,3 @@ public class MainActivity extends Activity implements OnClickListener {
 		this.startActivity(i);
 	}
 }
-//test back//
